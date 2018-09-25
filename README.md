@@ -13,4 +13,4 @@ A-mbp15:demo ogoshtasb$ git hist
 * 02cccb1 updates
 * d2fc029 dding readme and license
 QA-mbp15:demo ogoshtasb$ git difftool 6999766 HEAD
-I hope this isnt a problem
+This is bound to cause a merge conflict!
